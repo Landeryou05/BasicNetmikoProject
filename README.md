@@ -8,7 +8,6 @@ Introduction
 
 Dependencies
 - This program requires 3 dependencies. These include the netmiko library, public-ip library and the requests library.
-- This is included within the python virtual environment called 'virtualenv' within the repository.
 - However, you can install these dependencies within your local environment with the following commands:
     - 'pip install public-ip'
     - 'pip install netmiko'
